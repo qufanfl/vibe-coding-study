@@ -1,2 +1,15 @@
-"# vibe-coding-study" 
-"# vibe-coding-study" 
+# Vibe Coding Study
+
+AI로 어디까지 만들 수 있을까를 실험해보는 프로젝트입니다.
+
+프롬프트만으로 UI와 기능을 만들고,
+그 결과가 실제 서비스로 이어질 수 있는지 테스트하고 있습니다.
+
+## 🔍 What I’m Trying
+- 빠르게 만들고
+- 직접 써보고
+- 문제를 발견하고
+- 다시 개선하기
+
+## 🧪 Status
+실험 진행 중
