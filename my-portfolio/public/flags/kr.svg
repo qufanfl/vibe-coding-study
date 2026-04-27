@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" role="img" aria-labelledby="title">
+  <title id="title">South Korea flag</title>
+  <defs>
+    <clipPath id="badge">
+      <rect width="36" height="36" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#badge)">
+    <rect width="36" height="36" fill="#fff"/>
+
+    <g transform="translate(18 18)">
+      <circle r="7.1" fill="#cd2e3a"/>
+      <path
+        fill="#0047a0"
+        d="M-7.1 0a7.1 7.1 0 0 0 14.2 0 3.55 3.55 0 0 0-7.1 0 3.55 3.55 0 0 1-7.1 0Z"
+      />
+    </g>
+
+    <g fill="#111">
+      <g transform="translate(9.9 9.9) rotate(-45)">
+        <rect x="-3.4" y="-2.8" width="6.8" height=".8" rx=".25"/>
+        <rect x="-3.4" y="-.4" width="6.8" height=".8" rx=".25"/>
+        <rect x="-3.4" y="2" width="6.8" height=".8" rx=".25"/>
+      </g>
+      <g transform="translate(26.1 9.9) rotate(45)">
+        <rect x="-3.4" y="-2.8" width="2.6" height=".8" rx=".25"/>
+        <rect x=".8" y="-2.8" width="2.6" height=".8" rx=".25"/>
+        <rect x="-3.4" y="-.4" width="6.8" height=".8" rx=".25"/>
+        <rect x="-3.4" y="2" width="2.6" height=".8" rx=".25"/>
+        <rect x=".8" y="2" width="2.6" height=".8" rx=".25"/>
+      </g>
+      <g transform="translate(9.9 26.1) rotate(45)">
+        <rect x="-3.4" y="-2.8" width="6.8" height=".8" rx=".25"/>
+        <rect x="-3.4" y="-.4" width="2.6" height=".8" rx=".25"/>
+        <rect x=".8" y="-.4" width="2.6" height=".8" rx=".25"/>
+        <rect x="-3.4" y="2" width="6.8" height=".8" rx=".25"/>
+      </g>
+      <g transform="translate(26.1 26.1) rotate(-45)">
+        <rect x="-3.4" y="-2.8" width="2.6" height=".8" rx=".25"/>
+        <rect x=".8" y="-2.8" width="2.6" height=".8" rx=".25"/>
+        <rect x="-3.4" y="-.4" width="2.6" height=".8" rx=".25"/>
+        <rect x=".8" y="-.4" width="2.6" height=".8" rx=".25"/>
+        <rect x="-3.4" y="2" width="2.6" height=".8" rx=".25"/>
+        <rect x=".8" y="2" width="2.6" height=".8" rx=".25"/>
+      </g>
+    </g>
+  </g>
+  <rect width="36" height="36" rx="18" fill="none" stroke="#d4d4d8"/>
+</svg>
